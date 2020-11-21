@@ -1,3 +1,4 @@
+sound= "squeak"
 
 Hi! 👋
 
